@@ -42,7 +42,7 @@ How to Read Donald Duck (Spanish: Para leer al Pato Donald) is a 1971 book-lengt
 
 # Research
 
-![howtoreaddonaldduck/Untitled%201.png](Hhowtoreaddonaldduck/Untitled%201.png)
+![howtoreaddonaldduck/Untitled1.png](Hhowtoreaddonaldduck/Untitled1.png)
 
 The book's thesis is that Disney comics are not only a reflection of the prevailing ideology at the time capitalism, but that they are also aware of this, and are active agents in spreading the ideology. To do so, Disney comics use images of the everyday world:
 
@@ -68,7 +68,7 @@ On September 11, 1973, the armed forces staged a coup d’état. Allende died du
 
 The policies of the military government, though encouraging the development of free enterprise and a new entrepreneurial class, caused unemployment, a decline of real wages, and, as a consequence, a worsening of the standard of living of the lower and middle classes. Political and social conditions were complicated by a developing international economic crisis. All of that combined with repression and censorship on culture that strayed away from the military's values. Leading to massive book burnings, which included the book How to Read Donald Duck.
 
-![howtoreaddonaldduck/Untitled%202.png](howtoreaddonaldduck/Untitled%202.png)
+![howtoreaddonaldduck/Untitled2.png](howtoreaddonaldduck/Untitled2.png)
 
 ### Salvador Allende
 
@@ -80,7 +80,7 @@ This is an exerpt from one of his UN speeches where he sheds some light into the
 
 But Chile is also a country whose retarded economy has been subjected and even alienated to foreign capitalists firms, resulting in a foreign debt of more than US$ 4,000 million whose yearly services represent more than 30 per cent of the value of the country's exports; whose economy is extremely sensitive to the external situation, suffering from chronic stagnation and inflation; and where millions of people have been forced to live amidst conditions of exploitation and misery, of open or concealed unemployment."*
 
-![howtoreaddonaldduck.png](howtoreaddonaldduck/Untitled%203.png)
+![howtoreaddonaldduck.png](howtoreaddonaldduck/Untitled3.png)
 
 Allende was in some ways very forward thinking in the way he tried to implement the presence of the state in many facets of Chilean society. For some years during his presidency he tried to implement what was called project Cybersyn which was a Chilean project from 1971 to 1973  aimed at constructing a distributed decision support system to aid in the management of the national economy. The project consisted of four modules: an economic simulator, custom software to check factory performance, an operations room, and a national network of telex machines that were linked to one mainframe computer.
 
