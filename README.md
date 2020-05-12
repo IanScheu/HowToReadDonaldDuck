@@ -1,4 +1,4 @@
-[howtoreaddonaldduck/banner.gif](howtoreaddonaldduck/banner.gif)
+[howtoreaddonaldduck/banner.gif](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/banner.gif)
 
 # TITLE HERE Example README.md Outline
 
@@ -36,13 +36,13 @@ How to Read Donald Duck (Spanish: Para leer al Pato Donald) is a 1971 book-lengt
 
 ## Metadata
 
-[Untitled](howtoreaddonaldduck/Untitled%20Database%20b06aeef9527a42b3bb068c025f3aa5c5.csv)
+[Untitled](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%20Database%20b06aeef9527a42b3bb068c025f3aa5c5.csv)
 
-![howtoreaddonaldduck/Untitled.png](howtoreaddonaldduck/Untitled.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled.png)
 
 # Research
 
-![howtoreaddonaldduck/Untitled1.png](Hhowtoreaddonaldduck/Untitled1.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%201.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%201.png)
 
 The book's thesis is that Disney comics are not only a reflection of the prevailing ideology at the time capitalism, but that they are also aware of this, and are active agents in spreading the ideology. To do so, Disney comics use images of the everyday world:
 
@@ -68,7 +68,7 @@ On September 11, 1973, the armed forces staged a coup d’état. Allende died du
 
 The policies of the military government, though encouraging the development of free enterprise and a new entrepreneurial class, caused unemployment, a decline of real wages, and, as a consequence, a worsening of the standard of living of the lower and middle classes. Political and social conditions were complicated by a developing international economic crisis. All of that combined with repression and censorship on culture that strayed away from the military's values. Leading to massive book burnings, which included the book How to Read Donald Duck.
 
-![howtoreaddonaldduck/Untitled2.png](howtoreaddonaldduck/Untitled2.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%202.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%202.png)
 
 ### Salvador Allende
 
@@ -80,11 +80,11 @@ This is an exerpt from one of his UN speeches where he sheds some light into the
 
 But Chile is also a country whose retarded economy has been subjected and even alienated to foreign capitalists firms, resulting in a foreign debt of more than US$ 4,000 million whose yearly services represent more than 30 per cent of the value of the country's exports; whose economy is extremely sensitive to the external situation, suffering from chronic stagnation and inflation; and where millions of people have been forced to live amidst conditions of exploitation and misery, of open or concealed unemployment."*
 
-![howtoreaddonaldduck.png](howtoreaddonaldduck/Untitled3.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%203.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%203.png)
 
 Allende was in some ways very forward thinking in the way he tried to implement the presence of the state in many facets of Chilean society. For some years during his presidency he tried to implement what was called project Cybersyn which was a Chilean project from 1971 to 1973  aimed at constructing a distributed decision support system to aid in the management of the national economy. The project consisted of four modules: an economic simulator, custom software to check factory performance, an operations room, and a national network of telex machines that were linked to one mainframe computer.
 
-![howtoreaddonaldduck/Untitled%204.png](howtoreaddonaldduck/Untitled%204.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%204.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%204.png)
 
 Project Cybersyn control room
 
@@ -98,15 +98,15 @@ And this taking control of the means of production was also very important for t
 
 [https://www.looper.com/59115/untold-truth-ducktales/?utm_campaign=clip](https://www.looper.com/59115/untold-truth-ducktales/?utm_campaign=clip)
 
-![howtoreaddonaldduck/Untitled%205.png](howtoreaddonaldduck/Untitled%205.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%205.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%205.png)
 
 Comics historian Thomas Andrae has examined the arguments of How to Read Donald Duck and compared them to the actual Disney comic book stories by Carl Barks. One of the arguments featured in the original book is that in the world of Disney no-one has to work in order to produce. The stories feature products which are bought, sold, and consumed. But they do not depict the effort needed for their production. Andrae notes that the writers seem to have identified commodity fetishism in Barks' works. The notion is that the value of products is displaced from the labor that produces them and misconceived as emanating from the products itself. The notion goes back to the works of Karl Marx. Another argument in the original book is that the service sector of the economy is the one primarily depicted in Disney comics. The citizens of Duckburg are depicted working in jobs of this sector, as delivery boys, hairdressers, night watchmen, salespeople, etc. Blue-collar workers are not depicted. The writers argued that the Disney comics present as insignificant the entire realm of industrial production and the working class, despite the fact that these are the real generators of wealth in capitalist society. Andrae thinks these arguments contradict the stories by Barks, where character Donald Duck himself is often featured as an underpaid and alienated worker.
 
 ### American Influence
 
-![howtoreaddonaldduck/Untitled%206.png](howtoreaddonaldduck/Untitled%206.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%206.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%206.png)
 
-![howtoreaddonaldduck/Untitled%207.png](howtoreaddonaldduck/Untitled%207.png)
+!https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/[howtoreaddonaldduck/Untitled%207.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%207.png)
 
 [https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=7246&context=etd](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=7246&context=etd)
 
@@ -114,7 +114,7 @@ Comics historian Thomas Andrae has examined the arguments of How to Read Donald 
 
 Just like the creation of these subliminal messages, most of our preconceptions in society are made up agreements that through the passing of time have solidified into seemingly immutable aspects of how we live. Along my research I saw a comment on a forum about someone mentioning HtRDD as the spiritual sequel to a Roland Barthes book called "Myths", where in each chapter he takes an object or a custom that we consider very much for granted and then speculates and shows proof on how most aspects in society are constructs.
 
-![howtoreaddonaldduck/Untitled%208.png](howtoreaddonaldduck/Untitled%208.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%208.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%208.png)
 
 # Transcoding
 
@@ -126,23 +126,23 @@ As I started thinking of transcoding this object I was really drawn to the idea 
 
 This transcoding I started off as a sort of warm-up transcoding that wasn't so deep in conceptual transcoding, but more as a trigger to maybe what I would develop further. I was really drawn to the illustration of the original book cover of the chilean version of the book. It really demonstrates the relation of power between capitalist USA trying to keep in check neighbouring countries under their political influence. A big deal in the context of the cold war. The international version of the book has a much more diggested illustration where it is somewhat over explained, inn my opinion. So it was nice to pay tribute also to this extinct cover, bringing it back to life in another context.
 
-![howtoreaddonaldduck/Untitled%209.png](Hhowtoreaddonaldduck/Untitled%209.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%209.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%209.png)
 
-![howtoreaddonaldduck/Untitled%2010.png](howtoreaddonaldduck/Untitled%2010.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2010.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2010.png)
 
 I can relate the image in the cover of the book very much to the story of the horse of Troy. But in this case the horse would be the disney comics, carrying inside the american ideology, targeted to the latin american coutries.
 
-![howtoreaddonaldduck/Untitled%2011.png](howtoreaddonaldduck/Untitled%2011.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2011.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2011.png)
 
-![howtoreaddonaldduck/Untitled%2012.png](howtoreaddonaldduck/Untitled%2012.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2012.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2012.png)
 
 ### Method
 
-![howtoreaddonaldduck/Untitled%2013.png](howtoreaddonaldduck/Untitled%2013.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2013.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2013.png)
 
 Once I knew I was going to do a sculpture of some element of the book I started abstracting the possible consequences of this coup d'etat that happened in 1973, linking it to the popular revolt that was happening in Chile in 2019. But I soon turned to a somewhat more one-on-one representation of the bookcover, which I believe already carried alot of meaning and would work powerfully as like a monument in a central square of some fictional Disneyland city.
 
-![howtoreaddonaldduck/Untitled%2014.png](howtoreaddonaldduck/Untitled%2014.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2014.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2014.png)
 
 As for the actual making of the model I used Blender and it's modeling tools.
 
@@ -163,13 +163,13 @@ admit to."
 
 To me it was very interesting working in the audio format since you can really play with the intonation to achieve certain nuance and extra meaning in the speeches
 
-![howtoreaddonaldduck/Untitled%2015.png](howtoreaddonaldduck/Untitled%2015.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2015.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2015.png)
 
-[howtoreaddonaldduck/Van_Merlenstraat_15_(online-audio-converter.com).mp3](Hhowtoreaddonaldduck/Van_Merlenstraat_15_(online-audio-converter.com).mp3)
+[https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Van_Merlenstraat_15_(online-audio-converter.com).mp3](Hhowtoreaddonaldduck/Van_Merlenstraat_15_(online-audio-converter.com).mp3)
 
 ### Method
 
-![howtoreaddonaldduck/Untitled%2016.png](howtoreaddonaldduck/Untitled%2016.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2016.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2016.png)
 
 Script of the audio comic. Recorded on Iphone 7.
 
@@ -181,35 +181,35 @@ This transcoding emerged from the idea to do a tutorial on how to actually read 
 
 ### Method
 
-![howtoreaddonaldduck/Untitled%2017.png](How%20to%20Read%20Donald%20Duck%20720f79086c8943ab9829dde4aa967545/Untitled%2017.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2017.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2017.png)
 
-![howtoreaddonaldduck/Untitled%2018.png](How%20to%20Read%20Donald%20Duck%20720f79086c8943ab9829dde4aa967545/Untitled%2018.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2018.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2018.png)
 
-![howtoreaddonaldduck/Untitled%2019.png](How%20to%20Read%20Donald%20Duck%20720f79086c8943ab9829dde4aa967545/Untitled%2019.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2019.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2019.png)
 
-![howtoreaddonaldduck/Untitled%2020.png](How%20to%20Read%20Donald%20Duck%20720f79086c8943ab9829dde4aa967545/Untitled%2020.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2020.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%2020.png)
 
 The idea changed over time, instead of trying to show in the game content from the whole book, I decided to condense them into a 3D environment in the Disneyland Club, a place the authors mention as where the influencial heads of Disney reside. My next step was to storyboard the experience as well as the space.
 
-![howtoreaddonaldduck/Untitled_Artwork_5.jpg](How%20to%20Read%20Donald%20Duck%20720f79086c8943ab9829dde4aa967545/Untitled_Artwork_5.jpg)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled_Artwork_5.jpg](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled_Artwork_5.jpg)
 
 Still too many elements/rooms. Trimmed down to 3 rooms in the game.
 
-![howtoreaddonaldduck/IMG_6409.jpg](How%20to%20Read%20Donald%20Duck%20720f79086c8943ab9829dde4aa967545/IMG_6409.jpg)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/IMG_6409.jpg](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/IMG_6409.jpg)
 
-![howtoreaddonaldduck/IMG_6410.jpg](How%20to%20Read%20Donald%20Duck%20720f79086c8943ab9829dde4aa967545/IMG_6410.jpg)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/IMG_6410.jpg](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/IMG_6410.jpg)
 
-![howtoreaddonaldduck/IMG_6411.jpg](How%20to%20Read%20Donald%20Duck%20720f79086c8943ab9829dde4aa967545/IMG_6411.jpg)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/IMG_6411.jpg](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/IMG_6411.jpg)
 
 Then I started sketching the rooms in 3D in Blender, later to be exported into Unity.
 
-![howtoreaddonaldduck/sketch_scene1(aerialt).png](How%20to%20Read%20Donald%20Duck%20720f79086c8943ab9829dde4aa967545/sketch_scene1(aerialt).png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/sketch_scene1(aerialt).png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/sketch_scene1(aerialt).png)
 
-![howtoreaddonaldduck/sketch_scene1(front).png](How%20to%20Read%20Donald%20Duck%20720f79086c8943ab9829dde4aa967545/sketch_scene1(front).png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/sketch_scene1(front).png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/sketch_scene1(front).png)
 
-![howtoreaddonaldduck/sketch_scene2(empty).png](How%20to%20Read%20Donald%20Duck%20720f79086c8943ab9829dde4aa967545/sketch_scene2(empty).png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/sketch_scene2(empty).png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/sketch_scene2(empty).png)
 
-![howtoreaddonaldduck/PAGE.png](How%20to%20Read%20Donald%20Duck%20720f79086c8943ab9829dde4aa967545/PAGE.png)
+![https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/PAGE.png](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/PAGE.png)
 
 Some useful tutorials I have been using to build this i unity.
 
