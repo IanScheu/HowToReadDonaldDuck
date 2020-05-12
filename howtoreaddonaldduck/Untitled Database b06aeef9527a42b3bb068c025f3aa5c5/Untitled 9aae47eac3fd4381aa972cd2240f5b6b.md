@@ -1,0 +1,3 @@
+# Untitled
+
+Data: Paperback book with the dimensions of 18x24.5cm. There is an illustration of the USA, personified into a Donald Duck character taking shovels of gold coins from the national banks of South America. The title is written in a red bold comic font, and some quotes of praise are written over the cover. The paper is worn out through the passing of time, becoming yellowish and having some brown spots throughout.
