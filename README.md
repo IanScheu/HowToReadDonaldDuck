@@ -1,6 +1,6 @@
 [howtoreaddonaldduck/banner.gif](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/banner.gif)
 
-# TITLE HERE Example README.md Outline
+# How To Read Donald Duck
 
 ### Table of Contents
 1. [Artefact](#artefact)
