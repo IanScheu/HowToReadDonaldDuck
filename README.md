@@ -1,5 +1,4 @@
-[howtoreaddonaldduck/banner.gif](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/banner.gif)
-
+![howtoreaddonaldduck/banner.gif](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/banner.gif)
 # How To Read Donald Duck
 
 ### Table of Contents
@@ -26,10 +25,6 @@
 4. [Conclusion](#conclusion)
 5. [Bibliography](#bibliography)
 
-# How to Read Donald Duck
-
-
-
 ## Artefact
 
 How to Read Donald Duck (Spanish: Para leer al Pato Donald) is a 1971 book-length essay by Ariel Dorfman and Armand Mattelart that critiques Disney comics from a Marxist point of view as being vehicles for American cultural imperialism. It was first published in Chile in 1971, became a bestseller throughout Latin America and is still considered a seminal work in cultural studies. It was reissued in August 2018 to a general audience in the United States, with a new introduction by Dorfman, by OR Books.
@@ -40,7 +35,7 @@ How to Read Donald Duck (Spanish: Para leer al Pato Donald) is a 1971 book-lengt
 
 ![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled.png)
 
-# Research
+## Research
 
 ![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%201.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%201.png)
 
@@ -116,7 +111,7 @@ Just like the creation of these subliminal messages, most of our preconceptions 
 
 ![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%208.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%208.png)
 
-# Transcoding
+## Transcoding
 
 As I started thinking of transcoding this object I was really drawn to the idea of adapting the comics medium to other contexts, where I could then express more precisely specific facets that the book explains. For me it's always fascinating seeing through these childish and naive visuals of the cartoons only to find serious relevant topics being portrayed in a way that it becomes more accesible to a wider audience that maybe wouldn't read a philosophical book, but a comic on the other hand, can be read by almost anyone.
 
