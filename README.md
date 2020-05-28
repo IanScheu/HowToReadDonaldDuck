@@ -186,9 +186,8 @@ This transcoding emerged from the idea to do a tutorial on how to actually read 
 
 /             |  /
 :-------------------------:|:-------------------------:
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2017.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2017.png)  |![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2018.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2018.png)  |  
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2019.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2019.png)  |  
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2020.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2020.png)
+![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2017.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2017.png)|![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2018.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2018.png)|
+![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2019.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2019.png)|![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2020.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2020.png)
 
 The idea changed over time, instead of trying to show in the game content from the whole book, I decided to condense them into a 3D environment in the Disneyland Club, a place the authors mention as where the influencial heads of Disney reside. My next step was to storyboard the experience as well as the space.
 
@@ -203,9 +202,7 @@ Still too many elements/rooms. Trimmed down to 3 rooms in the game.
 ![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/IMG_6411.jpg](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/IMG_6411.jpg)
 
 Then I started sketching the rooms in 3D in Blender, later to be exported into Unity.
-
-    <width="50%">
-    
+  
 ![<https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene1(aerialt).png width="50%">](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene1(aerialt).png)
 
 ![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene1(front).png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene1(front).png)
@@ -225,6 +222,8 @@ Some useful tutorials I have been using to build this i unity.
 "Export Unity Games to WebGL"
 
 ### Outcome
+
+![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/disney_club.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/disney_club.png)
 
 Version 1 of the final Disneyland Club outcome
 
