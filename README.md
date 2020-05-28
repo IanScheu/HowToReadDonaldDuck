@@ -13,7 +13,7 @@
             1. [American Influence](#american-influence)
         2. [The Myths we create as Society](#the-myths-we-create-as-society)
 3. [Transcoding](#transcoding)
-    1. [## Transcoding No. 1 (From bookcover to sculpture)](#Transcoding-no-1-from-bookcover-to-sculpture)
+    1. [## Transcoding No. 1 (From bookcover to sculpture)](#transcoding-no-1-from-bookcover-to-sculpture)
         1. [Description](#description)
         2. [Method](#method)
     2. [Transcoding No. 2 (From comic to audio)](#transcoding-no-2-from-comic-to-audio)
@@ -85,7 +85,8 @@ But Chile is also a country whose retarded economy has been subjected and even a
 
 Allende was in some ways very forward thinking in the way he tried to implement the presence of the state in many facets of Chilean society. For some years during his presidency he tried to implement what was called project Cybersyn which was a Chilean project from 1971 to 1973  aimed at constructing a distributed decision support system to aid in the management of the national economy. The project consisted of four modules: an economic simulator, custom software to check factory performance, an operations room, and a national network of telex machines that were linked to one mainframe computer.
 
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%204.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%204.png)
+
+![<https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%204.png width="50%">](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%204.png)
 
 Project Cybersyn control room
 
@@ -127,22 +128,17 @@ As I started thinking of transcoding this object I was really drawn to the idea 
 
 This transcoding I started off as a sort of warm-up transcoding that wasn't so deep in conceptual transcoding, but more as a trigger to maybe what I would develop further. I was really drawn to the illustration of the original book cover of the chilean version of the book. It really demonstrates the relation of power between capitalist USA trying to keep in check neighbouring countries under their political influence. A big deal in the context of the cold war. The international version of the book has a much more diggested illustration where it is somewhat over explained, inn my opinion. So it was nice to pay tribute also to this extinct cover, bringing it back to life in another context.
 
-
-:-------------------------:|:-------------------------:
-![(https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png)](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png)  |  ![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png)
-
-
 ![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png)
+
+/             |  /
+:-------------------------:|:-------------------------:
+![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2011.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2011.png)  |  ![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2012.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2012.png)
+
+### Method
 
 ![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png) 
 
 I can relate the image in the cover of the book very much to the story of the horse of Troy. But in this case the horse would be the disney comics, carrying inside the american ideology, targeted to the latin american coutries.
-
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2011.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2011.png)
-
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2012.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2012.png)
-
-### Method
 
 ![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2013.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2013.png)
 
@@ -187,12 +183,11 @@ This transcoding emerged from the idea to do a tutorial on how to actually read 
 
 ### Method
 
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2017.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2017.png)
 
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2018.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2018.png)
-
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2019.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2019.png)
-
+/             |  /
+:-------------------------:|:-------------------------:
+![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2017.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2017.png)  |  ![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2018.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2018.png)  |  !
+![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2019.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2019.png)  |  !
 ![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2020.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2020.png)
 
 The idea changed over time, instead of trying to show in the game content from the whole book, I decided to condense them into a 3D environment in the Disneyland Club, a place the authors mention as where the influencial heads of Disney reside. My next step was to storyboard the experience as well as the space.
