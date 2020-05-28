@@ -22,18 +22,23 @@
     3. [Transcoding No. 3 (Welcome to the Disneyland Club)](#transcoding-no-3-welcome-to-the-disneyland-club)
         1. [Description](#description)
         2. [Method](#method)
-4. [Conclusion](#conclusion)
-5. [Bibliography](#bibliography)
+4. [Bibliography](#bibliography)
 
 ## Artefact
 
 How to Read Donald Duck (Spanish: Para leer al Pato Donald) is a 1971 book-length essay by Ariel Dorfman and Armand Mattelart that critiques Disney comics from a Marxist point of view as being vehicles for American cultural imperialism. It was first published in Chile in 1971, became a bestseller throughout Latin America and is still considered a seminal work in cultural studies. It was reissued in August 2018 to a general audience in the United States, with a new introduction by Dorfman, by OR Books.
 
 ## Metadata
+| Tag | Data |  
+|--|--|
+**IISG Call Number** | [IISG Bro 328/14](https://search.iisg.amsterdam/Record/1109411)
+| **Physical Description** | Paperback Book 
+| **Type** | Book
+| **Medium** | Print
+| **Materials** | Regular cheap print paper
+| **Date** | 1975
+|![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled.png)| Paperback book with the dimensions of 18x24.5cm. There is an illustration of the USA, personified into a Donald Duck character taking shovels of gold coins from the national banks of South America. The title is written in a red bold comic font, and some quotes of praise are written over the cover. The paper is worn out through the passing of time, becoming yellowish and having some brown spots throughout.
 
-[Untitled](https://raw.githubusercontent.com/IanScheu/HowToReadDonaldDuck/howtoreaddonaldduck/Untitled%20Database%20b06aeef9527a42b3bb068c025f3aa5c5.csv)
-
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled.png)
 
 ## Research
 
@@ -216,7 +221,6 @@ Some useful tutorials I have been using to build this i unity.
 
 "Export Unity Games to WebGL"
 
-## Coclusion
 
 ### Bibliography
 
