@@ -127,7 +127,7 @@ As I started thinking of transcoding this object I was really drawn to the idea 
 
 This transcoding I started off as a sort of warm-up transcoding that wasn't so deep in conceptual transcoding, but more as a trigger to maybe what I would develop further. I was really drawn to the illustration of the original book cover of the chilean version of the book. It really demonstrates the relation of power between capitalist USA trying to keep in check neighbouring countries under their political influence. A big deal in the context of the cold war. The international version of the book has a much more diggested illustration where it is somewhat over explained, inn my opinion. So it was nice to pay tribute also to this extinct cover, bringing it back to life in another context.
 
-Solarized dark             |  Solarized Ocean
+
 :-------------------------:|:-------------------------:
 ![(https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png)](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png)  |  ![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png)
 
