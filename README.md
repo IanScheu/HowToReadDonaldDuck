@@ -22,6 +22,7 @@
     3. [Transcoding No. 3 (Welcome to the Disneyland Club)](#transcoding-no-3-welcome-to-the-disneyland-club)
         1. [Description](#description)
         2. [Method](#method)
+        3. [Outcome](#outcome)
 4. [Bibliography](#bibliography)
 
 ## Artefact
@@ -126,7 +127,14 @@ As I started thinking of transcoding this object I was really drawn to the idea 
 
 This transcoding I started off as a sort of warm-up transcoding that wasn't so deep in conceptual transcoding, but more as a trigger to maybe what I would develop further. I was really drawn to the illustration of the original book cover of the chilean version of the book. It really demonstrates the relation of power between capitalist USA trying to keep in check neighbouring countries under their political influence. A big deal in the context of the cold war. The international version of the book has a much more diggested illustration where it is somewhat over explained, inn my opinion. So it was nice to pay tribute also to this extinct cover, bringing it back to life in another context.
 
-|![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png)|![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png)| 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![(https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png)](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png)  |  ![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png)
+
+
+![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png)
+
+![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png) 
 
 I can relate the image in the cover of the book very much to the story of the horse of Troy. But in this case the horse would be the disney comics, carrying inside the american ideology, targeted to the latin american coutries.
 
@@ -219,8 +227,13 @@ Some useful tutorials I have been using to build this i unity.
 
 "Export Unity Games to WebGL"
 
-[https://www.youtube.com/watch?v=XhGoiRUK5qE](https://www.youtube.com/watch?v=XhGoiRUK5qE)
+### Outcome
+
 Version 1 of the final Disneyland Club outcome
+
+[https://www.youtube.com/watch?v=XhGoiRUK5qE](https://www.youtube.com/watch?v=XhGoiRUK5qE)
+
+
 
 
 ### Bibliography
