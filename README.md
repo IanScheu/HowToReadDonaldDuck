@@ -69,7 +69,7 @@ On September 11, 1973, the armed forces staged a coup d’état. Allende died du
 
 The policies of the military government, though encouraging the development of free enterprise and a new entrepreneurial class, caused unemployment, a decline of real wages, and, as a consequence, a worsening of the standard of living of the lower and middle classes. Political and social conditions were complicated by a developing international economic crisis. All of that combined with repression and censorship on culture that strayed away from the military's values. Leading to massive book burnings, which included the book How to Read Donald Duck.
 
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%202.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%202.png)
+![<img src= "https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%202.png" width="50%"](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%202.png)
 
 ### Salvador Allende
 
@@ -128,7 +128,7 @@ As I started thinking of transcoding this object I was really drawn to the idea 
 
 This transcoding I started off as a sort of warm-up transcoding that wasn't so deep in conceptual transcoding, but more as a trigger to maybe what I would develop further. I was really drawn to the illustration of the original book cover of the chilean version of the book. It really demonstrates the relation of power between capitalist USA trying to keep in check neighbouring countries under their political influence. A big deal in the context of the cold war. The international version of the book has a much more diggested illustration where it is somewhat over explained, inn my opinion. So it was nice to pay tribute also to this extinct cover, bringing it back to life in another context.
 
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png)
+![<img src= "https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png" width="50%"](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%209.png)
 
 /             |  /
 :-------------------------:|:-------------------------:
@@ -136,7 +136,7 @@ This transcoding I started off as a sort of warm-up transcoding that wasn't so d
 
 ### Method
 
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png) 
+![<img src= "https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png" width="50%"](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%2010.png) 
 
 I can relate the image in the cover of the book very much to the story of the horse of Troy. But in this case the horse would be the disney comics, carrying inside the american ideology, targeted to the latin american coutries.
 
