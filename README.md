@@ -86,7 +86,7 @@ But Chile is also a country whose retarded economy has been subjected and even a
 Allende was in some ways very forward thinking in the way he tried to implement the presence of the state in many facets of Chilean society. For some years during his presidency he tried to implement what was called project Cybersyn which was a Chilean project from 1971 to 1973  aimed at constructing a distributed decision support system to aid in the management of the national economy. The project consisted of four modules: an economic simulator, custom software to check factory performance, an operations room, and a national network of telex machines that were linked to one mainframe computer.
 
 
-![<https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%204.png width="50%">](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%204.png)
+[<img src= "https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%204.png" width="50%">](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/Untitled%204.png)
 
 Project Cybersyn control room
 
