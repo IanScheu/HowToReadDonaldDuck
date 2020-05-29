@@ -195,19 +195,24 @@ The idea changed over time, instead of trying to show in the game content from t
 
 Still too many elements/rooms. Trimmed down to 3 rooms in the game.
 
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/IMG_6409.jpg](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/IMG_6409.jpg)
+Drawing sketch             |  Render sketch
+:-------------------------:|:-------------------------:
+![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/IMG_6409.jpg](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/IMG_6409.jpg)|![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene1(aerialt).png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene1(aerialt).png)|![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/IMG_6410.jpg](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/IMG_6410.jpg)|![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene1(front).png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene1(front).png)|![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/IMG_6411.jpg](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/IMG_6411.jpg)|
+![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene2(empty).png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene2(empty).png)
 
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/IMG_6410.jpg](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/IMG_6410.jpg)
 
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/IMG_6411.jpg](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/IMG_6411.jpg)
+
+
+
+
+
 
 Then I started sketching the rooms in 3D in Blender, later to be exported into Unity.
   
-![<https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene1(aerialt).png width="50%">](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene1(aerialt).png)
 
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene1(front).png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene1(front).png)
 
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene2(empty).png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/sketch_scene2(empty).png)
+
+
 
 ![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/PAGE.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/PAGE.png)
 
@@ -223,7 +228,7 @@ Some useful tutorials I have been using to build this i unity.
 
 ### Outcome
 
-![https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/disney_club.png](https://github.com/IanScheu/HowToReadDonaldDuck/blob/master/howtoreaddonaldduck/disney_club.png)
+![https://j.gifs.com/ROvxEK.gif](https://j.gifs.com/ROvxEK.gif)
 
 Version 1 of the final Disneyland Club outcome
 
